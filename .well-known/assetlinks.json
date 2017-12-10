@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "audio.michal.keyboard",
+    "sha256_cert_fingerprints":
+    ["F7:69:42:AE:C8:4A:FF:42:4E:8B:8F:2A:55:E6:49:BB:B1:ED:93:76:B8:11:FE:9A:F0:9B:4C:65:9F:81:49:37"]
+  }
+}]
